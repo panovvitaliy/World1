@@ -12,6 +12,5 @@ public class Main {
         System.out.println(greating.sayHello());
         System.out.println(LocalDate.checkDate());
 
-
     }
 }
